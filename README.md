@@ -18,10 +18,6 @@ This is my personal portfolio website where I have put together my projects, ski
 * Contact Section
 * Responsive design
 
-## Demo
-
-🎥 [Watch the Portfolio Demo](./assets/portfolio-demo.mp4)
-
 ## Project
 
 This website was created to showcase my work and give a quick overview of my technical skills and projects.
